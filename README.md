@@ -16,7 +16,7 @@ knowledge through practical lab assignments.
 
 - [Lab Assignments](#lab-assignments)
 - [Setting Up Your Environment](#setting-up-your-environment)
-- [Q/A and Discussion](#qa-and-discussion)
+- [Q&A and Discussion](#qa-and-discussion)
 - [Contributing](#contributing)
 
 ## Lab Assignments
