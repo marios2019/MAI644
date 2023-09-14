@@ -1,6 +1,6 @@
 # Academic Honesty Statement
 
-**Academic Integrity**
+## Academic Integrity
 
 Academic integrity is a cornerstone of our educational community. As a student in this course, you are expected to 
 uphold the highest standards of academic integrity, which includes but is not limited to:
