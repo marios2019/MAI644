@@ -37,9 +37,9 @@ To get started with the course and complete the lab assignments, you'll need to 
 Visit the [Wiki](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/wiki) for step-by-step instructions on setting up tools like [Conda](https://docs.conda.io/en/latest/) and [PyCharm](https://www.jetbrains.com/pycharm/). 
 Properly configuring your environment is crucial for a smooth learning experience.
 
-## Q/A and Discussion
+## Q&A and Discussion
 
-Have questions about the assignments or lab content in general? The **"Issues"** tab in this repository is your Q/A 
+Have questions about the assignments or lab content in general? The **"Issues"** tab in this repository is your Q&A 
 forum. Feel free to create new issues to ask questions, report problems, or seek clarification. Be sure to use the issue 
 template provided to provide all the necessary details.
 
