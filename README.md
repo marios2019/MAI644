@@ -6,7 +6,7 @@ programme at the University of Cyprus for the Fall semester of 2023-2024.
 
 ## Course Description
 
-This repository contains the assignments' materials for the MAI644 Computer Vision course. The complete course's material
+This repository contains the assignments' materials for the MAI644 Computer Vision course. The complete course's materials
 are available at the course's [website](https://moodle.cs.ucy.ac.cy/course/view.php?id=439). Computer Vision is a 
 fascinating field that focuses on teaching machines to interpret and understand visual information from the world. 
 In this course, you'll delve into the foundations of computer vision, learn about various algorithms, and apply your 
