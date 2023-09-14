@@ -47,11 +47,11 @@ Have questions about the assignments or lab content in general? The **"Issues"**
 forum. Feel free to create new issues to ask questions, report problems, or seek clarification. Be sure to use the issue 
 template provided to provide all the necessary details.
 
-[Ask a Question (Assignment 1)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-1.md)
-[Ask a Question (Assignment 2)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-2.md)
-[Ask a Question (Assignment 3)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-3.md)
-[Ask a Question (Assignment 4)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-4.md)
-[Ask a Question (Assignment 5)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-5.md)
+- [Ask a Question (Assignment 1)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-1.md&title=[Assignment%201])
+- [Ask a Question (Assignment 2)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-2.md&title=[Assignment%202])
+- [Ask a Question (Assignment 3)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-3.md&title=[Assignment%203])
+- [Ask a Question (Assignment 4)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-4.md&title=[Assignment%204])
+- [Ask a Question (Assignment 5)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-5.md&title=[Assignment%205])
 
 ## Contributing
 
