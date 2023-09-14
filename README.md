@@ -25,11 +25,11 @@ All lab assignments for this course are organized into individual folders in thi
 instructions, code templates, and any required data in these folders. Each assignment is an opportunity to apply what 
 you've learned in class and develop your computer vision skills.
 
-- [Assignment 1: Python Introduction](assignment_1/)
-- [Assignment 2: Canny Edge Detector](assignment_2/)
-- [Assignment 3: Corners Detection - Image Stitching](assignment_3/)
-- [Assignment 4: Image Segmentation](assignment_4/)
-- [Assignment 5: Stereo Vision](assignment_5/)
+- [Assignment 1: Python Introduction](assignments/assignment_1/)
+- [Assignment 2: Canny Edge Detector](assignments/assignment_2/)
+- [Assignment 3: Corners Detection - Image Stitching](assignments/assignment_3/)
+- [Assignment 4: Image Segmentation](assignments/assignment_4/)
+- [Assignment 5: Stereo Vision](assignments/assignment_5/)
 
 ## Setting Up Your Environment
 
@@ -44,7 +44,7 @@ Have questions about the assignments or lab content in general? The **"Issues"**
 forum. Feel free to create new issues to ask questions, report problems, or seek clarification. Be sure to use the issue 
 template provided to provide all the necessary details.
 
-[Ask a Question](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?assignees=&labels=question&template=question.md&title=)
+[Ask a Question](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report.md)
 
 ## Contributing
 
