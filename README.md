@@ -34,11 +34,7 @@ you've learned in class and develop your computer vision skills.
 ## Setting Up Your Environment
 
 To get started with the course and complete the lab assignments, you'll need to set up your development environment. 
-Visit the [Wiki](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/wiki) for step-by-step instructions 
-on setting up tools like [Conda](https://docs.conda.io/en/latest/) and [PyCharm](https:[assignment-issue-report-5.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-5.md)
-[assignment-issue-report-2.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-2.md)
-[assignment-issue-report-3.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-3.md)
-[assignment-issue-report-4.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-4.md)//www.jetbrains.com/pycharm/). 
+Visit the [Wiki](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/wiki) for step-by-step instructions on setting up tools like [Conda](https://docs.conda.io/en/latest/) and [PyCharm](www.jetbrains.com/pycharm/). 
 Properly configuring your environment is crucial for a smooth learning experience.
 
 ## Q/A and Discussion
