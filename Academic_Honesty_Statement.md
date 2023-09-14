@@ -5,6 +5,16 @@
 Academic integrity is a cornerstone of our educational community. As a student in this course, you are expected to 
 uphold the highest standards of academic integrity, which includes but is not limited to:
 
+Academic integrity is a fundamental principle of education and research. It means conducting your work honestly, fairly, and ethically. As students in this course, you are expected to maintain the highest standards of academic integrity. This includes but is not limited to:
+
+1. **Original Work:** All work submitted for this course must be your own original work. Plagiarism, the use of someone else's ideas, 
+words, or work without proper citation, is strictly prohibited.
+2. **Collaboration:** Collaboration is encouraged within the boundaries defined by the course instructor. Unauthorized collaboration, 
+sharing answers, or copying another student's work is considered a breach of academic integrity.
+3. **Exams and Assignments:** During exams and completing assignments, you are expected to work independently unless 
+otherwise specified by the instructor. Sharing answers or receiving unauthorized assistance during these assessments 
+is prohibited.
+
 ## Coding Assignments
 
 1. **Original Code:** All code submitted for assignments must be your own original work. 
@@ -32,7 +42,7 @@ substantial personal contribution is not allowed. LLMs should be used as aids, n
 
 Violations of academic integrity will not be tolerated and may result in serious consequences, including but not limited to:
 
-- A failing grade for the assignment.
+- A failing grade for the assignment and/or exam.
 - A failing grade for the course.
 - Referral to the Department's Council for further action, which may include suspension or expulsion from the University.
 
