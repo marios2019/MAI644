@@ -10,8 +10,8 @@ words, or work without proper attribution, is strictly prohibited.
 
 2. **Collaboration:** Collaboration is encouraged within the boundaries defined by the course instructor. Unauthorized collaboration, 
 sharing answers, or copying another student's work is considered a breach of academic integrity.
-3. 
-4. **Exams and Assignments:** During exams and completing assignments, you are expected to work independently unless 
+
+3. **Exams and Assignments:** During exams and completing assignments, you are expected to work independently unless 
 otherwise specified by the instructor. Sharing answers or receiving unauthorized assistance during these assessments 
 is prohibited.
 
