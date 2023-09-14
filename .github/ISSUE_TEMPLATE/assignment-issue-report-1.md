@@ -2,7 +2,7 @@
 name: Assignment Issue report 1
 about: Give a detailed description of the assignment issue you are facing
 title: "[Assignment 1]"
-labels: assignment_1, assignment_2, assignment_3, assignment_4, assignment_5
+labels: assignment_1
 assignees: marios2019
 
 ---
