@@ -1,6 +1,7 @@
 ---
 name: Assignment Issue report 3
-about: Give a detailed description of the assignment issue you are facing
+about: Give a detailed description of the issue you are facing regarding Assignment
+  3
 title: "[Assignment 3]"
 labels: assignment_3
 assignees: marios2019
@@ -32,6 +33,7 @@ ca-certificates           2023.08.22           haa95532_0
 contourpy                 1.1.0                    pypi_0    pypi
 cycler                    0.11.0                   pypi_0    pypi
 fonttools                 4.42.1                   pypi_0    pypi
+joblib                    1.3.2                    pypi_0    pypi
 kiwisolver                1.4.5                    pypi_0    pypi
 libffi                    3.4.4                hd77b12b_0
 matplotlib                3.7.3                    pypi_0    pypi
@@ -45,17 +47,19 @@ pip                       23.2.1          py311haa95532_0
 pyparsing                 3.1.1                    pypi_0    pypi
 python                    3.11.5               he1021f5_0
 python-dateutil           2.8.2                    pypi_0    pypi
+scikit-learn              1.3.0                    pypi_0    pypi
+scipy                     1.11.2                   pypi_0    pypi
 setuptools                68.0.0          py311haa95532_0
 six                       1.16.0                   pypi_0    pypi
 sqlite                    3.41.2               h2bbff1b_0
+threadpoolctl             3.2.0                    pypi_0    pypi
 tk                        8.6.12               h2bbff1b_0
 tzdata                    2023c                h04d1e81_0
 vc                        14.2                 h21ff451_1
 vs2015_runtime            14.27.29016          h5e58377_2
 wheel                     0.38.4          py311haa95532_0
 xz                        5.4.2                h8cc25b3_0
-zlib                      1.2.13               h8cc25b3_0
-```
+zlib                      1.2.13               h8cc25b3_0```
 
 **Additional context**
 Add any other context about the problem here.
