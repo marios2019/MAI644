@@ -47,15 +47,15 @@ Have questions about the assignments or lab content in general? The **"Issues"**
 forum. Feel free to create new issues to ask questions, report problems, or seek clarification. Be sure to use the issue 
 template provided to provide all the necessary details.
 
-- [Ask a Question (Assignment 1)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-1.md&title=[Assignment%201])
-- [Ask a Question (Assignment 2)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-2.md&title=[Assignment%202])
-- [Ask a Question (Assignment 3)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-3.md&title=[Assignment%203])
-- [Ask a Question (Assignment 4)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-4.md&title=[Assignment%204])
-- [Ask a Question (Assignment 5)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-5.md&title=[Assignment%205])
+- [Ask a Question (Assignment 1)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-1.md&title=[Assignment%201]&assignees=marios2019&labels=assignment_1)
+- [Ask a Question (Assignment 2)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-2.md&title=[Assignment%202]&assignees=marios2019&labels=assignment_2)
+- [Ask a Question (Assignment 3)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-3.md&title=[Assignment%203]&assignees=marios2019&labels=assignment_3)
+- [Ask a Question (Assignment 4)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-4.md&title=[Assignment%204]&assignees=marios2019&labels=assignment_4)
+- [Ask a Question (Assignment 5)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-5.md&title=[Assignment%205]&assignees=marios2019&labels=assignment_5)
 
 ## Contributing
 
-We welcome con[Academic_Honesty_Statement.md](Academic_Honesty_Statement.md)tributions from students, whether it's suggesting improvements to the course materials, fixing issues, or adding your own insights. If you'd like to contribute, please follow these steps:
+We welcome contributions from students, whether it's suggesting improvements to the course materials, fixing issues, or adding your own insights. If you'd like to contribute, please follow these steps:
 
 1. Fork this repository to your GitHub account.
 2. Create a new branch for your contribution.
@@ -69,7 +69,7 @@ Let's learn and explore computer vision together!
 Our late assignment policy is designed to ensure fairness and timely completion of coursework. Late assignments will be 
 subject to the following guidelines:
 
-1. Assignments submitted **within 24 hours after the deadline** will receive a **50% reduction* in points.
+1. Assignments submitted **within 24 hours after the deadline** will receive a **50% reduction** in points.
 2. Assignments submitted **between 24 hours and 48 hours after the deadline** will receive a **75% reduction** in points.
 3. Assignments submitted **more than 48 hours after the deadline** will receive a **100% reduction** in points.
 
