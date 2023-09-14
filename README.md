@@ -35,7 +35,10 @@ you've learned in class and develop your computer vision skills.
 
 To get started with the course and complete the lab assignments, you'll need to set up your development environment. 
 Visit the [Wiki](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/wiki) for step-by-step instructions 
-on setting up tools like [Conda](https://docs.conda.io/en/latest/) and [PyCharm](https://www.jetbrains.com/pycharm/). 
+on setting up tools like [Conda](https://docs.conda.io/en/latest/) and [PyCharm](https:[assignment-issue-report-5.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-5.md)
+[assignment-issue-report-2.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-2.md)
+[assignment-issue-report-3.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-3.md)
+[assignment-issue-report-4.md](.github%2FISSUE_TEMPLATE%2Fassignment-issue-report-4.md)//www.jetbrains.com/pycharm/). 
 Properly configuring your environment is crucial for a smooth learning experience.
 
 ## Q/A and Discussion
@@ -44,7 +47,11 @@ Have questions about the assignments or lab content in general? The **"Issues"**
 forum. Feel free to create new issues to ask questions, report problems, or seek clarification. Be sure to use the issue 
 template provided to provide all the necessary details.
 
-[Ask a Question](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report.md)
+[Ask a Question (Assignment 1)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-1.md)
+[Ask a Question (Assignment 2)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-2.md)
+[Ask a Question (Assignment 3)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-3.md)
+[Ask a Question (Assignment 4)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-4.md)
+[Ask a Question (Assignment 5)](https://github.com/marios2019/MAI644-Computer-Vision-Fall-2023-2024/issues/new?template=assignment-issue-report-5.md)
 
 ## Contributing
 
