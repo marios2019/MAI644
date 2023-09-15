@@ -1,7 +1,7 @@
 # MAI644 Computer Vision Course - Fall 2023-2024
 
 Welcome to the GitHub repository for the MAI644 Computer Vision course, part of the 
-[M.Sc. Artificial Intelligence](https://www.cs.ucy.ac.cy/index.php/education/postgrad/master-in-artificial-intelligence) 
+[M.Sc. in Artificial Intelligence](https://www.cs.ucy.ac.cy/index.php/education/postgrad/master-in-artificial-intelligence) 
 programme at the University of Cyprus for the Fall semester of 2023-2024.
 
 ## Course Description
